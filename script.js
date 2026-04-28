@@ -23,17 +23,17 @@ console.dir(parahs);
 console.log(parahs);
 
 //QUERY SELECTOR:
-//for tag:
+//1.for tag:
 let element = document.querySelector("p");
 console.log(element);
 
 let elements = document.querySelectorAll("h1");
 console.log(elements)
 
-//for class:
+//2.for class:
 let classes = document.querySelector(".myclass");
 console.dir(classes);
-//for id:
+//3.for id:
 let id = document.querySelector("#myid");
 console.dir(id);
 
