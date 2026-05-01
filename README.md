@@ -1,4 +1,4 @@
-java script part 04
+java script part 07
 <br>CONTENTS:
 <br>DOM : DOCUMENT OBJECT MODEL.
 
